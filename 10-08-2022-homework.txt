@@ -1,0 +1,11 @@
+// 1. Создайте два компонента Parent и Children. Необходимо реализовать взаимодействие между ними через props.
+// В компоненте Parent создайте объект user вида
+// const user = {
+//   name: 'Name',
+//   age: 30,
+//   avatar: 'https://www.w3schools.com/howto/img_avatar.png',
+//   languages: [ 'Javascript', 'Python' ]
+// }
+// и прокиньте его в компонент Children как props.
+// В компоненте Children отобразите информацию о пользователе в виде карточки пользователя.
+// Аватар отобразить в виде картинки. languages в виде списка <ul></ul>.
